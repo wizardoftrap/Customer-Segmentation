@@ -12,7 +12,7 @@ The project aims to segment customers based on various features using **KMeans c
   - `sklearn` for machine learning (KMeans clustering and preprocessing)
 
 ## Dataset
-The dataset used in this project is a CSV file (`dataset.csv`). It contains various customer-related features such as spending habits, marital status, education level, and more.
+The dataset used in this project is a CSV file ![Dataset](/dataset.csv). It contains various customer-related features such as spending habits, marital status, education level, and more.
 
 ### Data Cleaning:
 - Missing values were handled by dropping rows with null values.
@@ -47,6 +47,6 @@ The elbow method plot below shows how the inertia decreases as the number of clu
 ![Elbow Method](images/elbow_method.png)
 
 ### 5. **Cluster Visualization (t-SNE)**  
-This t-SNE plot shows the clusters after dimensionality reduction. It helps visualize how well the data points are separated by the KMeans algorithm.
+This shows the clusters after using KMeans algorithm. It helps visualize data points are separated among different segments.
 
 ![Cluster Visualization](images/cluster_visualization.png)
