@@ -43,8 +43,6 @@ Here, the marital status of customers is analyzed across segments, revealing how
 
 ### 4. **Elbow Method for Optimal k**  
 The elbow method plot below shows how the inertia decreases as the number of clusters increases. The "elbow" point indicates the optimal number of clusters for segmentation.
-## **COLAB Link**
-https://colab.research.google.com/drive/1fEi9WeoyPs8FCSbazHyBoqk9VJo7_zKe?usp=sharing
 
 ![Elbow Method](images/elbow_method.png)
 
@@ -52,3 +50,6 @@ https://colab.research.google.com/drive/1fEi9WeoyPs8FCSbazHyBoqk9VJo7_zKe?usp=sh
 This shows the clusters after using KMeans algorithm. It helps visualize data points are separated among different segments.
 
 ![Cluster Visualization](images/cluster_visualization.png)
+
+## **COLAB Link**
+https://colab.research.google.com/drive/1fEi9WeoyPs8FCSbazHyBoqk9VJo7_zKe?usp=sharing
