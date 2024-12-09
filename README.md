@@ -46,7 +46,7 @@ The elbow method plot below shows how the inertia decreases as the number of clu
 
 ![Elbow Method](images/elbow_method.png)
 
-### 5. **Cluster Visualization (t-SNE)**  
+### 5. **Cluster Visualization **  
 This shows the clusters after using KMeans algorithm. It helps visualize data points are separated among different segments.
 
 ![Cluster Visualization](images/cluster_visualization.png)
